@@ -1,4 +1,5 @@
 # WinFormTransValueDemoByDelOrEvent
+使用方法：使用vs2013打开编译运行即可；
 C#winform窗体间传值，三种方法示例，注释详细
 
 ###方法1：通过保存对象的引用调用其方法实现对子窗体的控制；
